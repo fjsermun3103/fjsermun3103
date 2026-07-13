@@ -9,7 +9,7 @@
 <br>
 
 <p align="center"> 
-	<img alt="Static Badge" src="https://img.shields.io/badge/19-Repositorios?style=for-the-badge&label=Repositorios&labelColor=%2336BCF7FF&color=%230E3141FF">
+	<img alt="Static Badge" src="https://img.shields.io/badge/20-Repositorios?style=for-the-badge&label=Repositorios&labelColor=%2336BCF7FF&color=%230E3141FF">
 
   <!-- </span>
 	<a href = "https://commits.top/egypt.html" target="_blank">
