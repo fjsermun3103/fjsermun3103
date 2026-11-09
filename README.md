@@ -85,7 +85,7 @@ Gestor de eventos con autenticación, con frontend y backend en repositorios sep
 <tr>
 <td colspan="2" valign="top">
 
-### 💾 [Portfolio.exe](https://github.com/fjsermun3103/Portfolio)
+### 💾 [Portfolio.exe](https://portfolio-fsermun3103.vercel.app/)
 
 Mi portfolio personal con estética Y2K de escritorio retro. Hecho con **Next.js 16, React 19 y TypeScript**, con CSS propio sin librerías de UI, Server Components y contenido separado de los componentes.
 
