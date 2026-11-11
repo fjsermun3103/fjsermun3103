@@ -96,7 +96,7 @@ Mi portfolio personal con estética Y2K de escritorio retro. Hecho con **Next.js
 ## Actividad en GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fjsermun3103&hide_border=true&background=15123D&ring=FF3FA6&fire=C8FF3C&currStreakLabel=FF3FA6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C7B8FF&locale=es" alt="Racha de contribuciones de fjsermun3103" />
+  <img src="https://streak-stats.demolab.com/?user=fjsermun3103&hide_border=true&background=15123D&ring=FF3FA6&fire=C8FF3C&currStreakLabel=FF3FA6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C7B8FF&locale=es" alt="Racha de contribuciones de fjsermun3103" />
 </p>
 
 ## Formación continua
