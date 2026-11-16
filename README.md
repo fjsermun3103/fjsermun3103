@@ -54,7 +54,7 @@ Junior full-stack developer based in Granada, Spain. I build complete web apps w
 <tr>
 <td width="50%" valign="top">
 
-### 🍹 [BlendUs](https://github.com/fjsermun3103/BlendUs)
+### 🍹 [BlendUs](https://blendus.vercel.app/)
 
 Red social full-stack para comunidades gastronómicas, de principio a fin.
 
